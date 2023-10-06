@@ -1,4 +1,4 @@
-# LovelySwiftUI
+# SwiftUIwithCombine
 Test frameworks SwiftUI and programming reactive with help Combine
 
 Completed task:
